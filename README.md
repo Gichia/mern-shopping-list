@@ -10,8 +10,11 @@ $ git clone https://github.com/Gichia/mern-shopping-list.git
 # Navigate to the folder
 $ cd mern-shopping-list
 
-# Install the package dependencies
+# Install the backend package dependencies
 $ npm install
+
+# Install the frontend/client package dependencies
+$ npm run client-install
 
 # Run the server
 $ npm run server
